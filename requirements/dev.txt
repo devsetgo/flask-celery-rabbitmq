@@ -1,0 +1,6 @@
+-r prod.txt
+
+# Dev libraries
+pylint
+black
+pytest
