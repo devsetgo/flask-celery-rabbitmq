@@ -1,0 +1,27 @@
+version: '2'
+services:
+  web:
+    build: ./
+#    image: mikeryan56/sufee-admin-flask:1.2.0
+    image: mikeryan56/flask-celery:2019.1
+    command: gunicorn -c gunicorn_cfg.py run:app
+    volumes:
+    - .:/code
+    ports:
+    - "5000:5000"
+    network_mode: bridge
+    # environment:
+    #   VIRTUAL_HOST: test.devsetgo.com
+    #   LETSENCRYPT_HOST: test.devsetgo.com
+
+  celery:
+    build: ./
+    network_mode: bridge
+    # command: celery worker -l info -A snakeeyes.blueprints.contact.tasks
+    command: celery -A run.celery worker -l info -P gevent
+    # volumes:
+    #   - '.:/snakeeyes'
+# networks:
+#     default:
+#       external:
+#         name: bridge

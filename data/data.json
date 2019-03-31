@@ -1,0 +1,122 @@
+[
+    {
+        "meta": {
+            "help": {
+                "data": "JSON Dict to respond with. Ex. ?data={\"color\": \"red\"}. Data is returned as \"data\" key. ",
+                "sleep": "Changes the time to delay in seconds. Ex. ?sleep=5. Defalut is 0. Sleep can NOT exceed 5 seconds and must be > 0!",
+                "status": "Status code to simulate in response. Ex. ?status=500. Default is 200.",
+                "basic_auth": "Prompt user with Basic Auth challange. Ex. ?auth=username:password.",
+                "documentation": "http://fakeresponse.com/"
+            },
+            "about": {
+                "follow_me": "@sshadmand",
+                "home": "http://fakeresponse.com/",
+                "me": "Sean Shadmand",
+                "original_post_link": "http://seanshadmand.com/2012/06/21/fake-response-server-slow-response-time-generator/"
+            },
+            "agent": "python-requests/2.21.0",
+            "originating_ip": "47.199.177.187"
+        },
+        "status": 200,
+        "slept": 1.0,
+        "response": "Slept for 1.0 seconds.",
+        "api_key": "8aed7a31-ef1b-4b2a-b4b4-2f637f5c1987",
+        "method": "GET"
+    },
+    {
+        "meta": {
+            "help": {
+                "data": "JSON Dict to respond with. Ex. ?data={\"color\": \"red\"}. Data is returned as \"data\" key. ",
+                "sleep": "Changes the time to delay in seconds. Ex. ?sleep=5. Defalut is 0. Sleep can NOT exceed 5 seconds and must be > 0!",
+                "status": "Status code to simulate in response. Ex. ?status=500. Default is 200.",
+                "basic_auth": "Prompt user with Basic Auth challange. Ex. ?auth=username:password.",
+                "documentation": "http://fakeresponse.com/"
+            },
+            "about": {
+                "follow_me": "@sshadmand",
+                "home": "http://fakeresponse.com/",
+                "me": "Sean Shadmand",
+                "original_post_link": "http://seanshadmand.com/2012/06/21/fake-response-server-slow-response-time-generator/"
+            },
+            "agent": "python-requests/2.21.0",
+            "originating_ip": "47.199.177.187"
+        },
+        "status": 200,
+        "slept": 1.0,
+        "response": "Slept for 1.0 seconds.",
+        "api_key": "8aed7a31-ef1b-4b2a-b4b4-2f637f5c1987",
+        "method": "GET"
+    },
+    {
+        "meta": {
+            "help": {
+                "data": "JSON Dict to respond with. Ex. ?data={\"color\": \"red\"}. Data is returned as \"data\" key. ",
+                "sleep": "Changes the time to delay in seconds. Ex. ?sleep=5. Defalut is 0. Sleep can NOT exceed 5 seconds and must be > 0!",
+                "status": "Status code to simulate in response. Ex. ?status=500. Default is 200.",
+                "basic_auth": "Prompt user with Basic Auth challange. Ex. ?auth=username:password.",
+                "documentation": "http://fakeresponse.com/"
+            },
+            "about": {
+                "follow_me": "@sshadmand",
+                "home": "http://fakeresponse.com/",
+                "me": "Sean Shadmand",
+                "original_post_link": "http://seanshadmand.com/2012/06/21/fake-response-server-slow-response-time-generator/"
+            },
+            "agent": "python-requests/2.21.0",
+            "originating_ip": "47.199.177.187"
+        },
+        "status": 200,
+        "slept": 1.0,
+        "response": "Slept for 1.0 seconds.",
+        "api_key": "8aed7a31-ef1b-4b2a-b4b4-2f637f5c1987",
+        "method": "GET"
+    },
+    {
+        "meta": {
+            "help": {
+                "data": "JSON Dict to respond with. Ex. ?data={\"color\": \"red\"}. Data is returned as \"data\" key. ",
+                "sleep": "Changes the time to delay in seconds. Ex. ?sleep=5. Defalut is 0. Sleep can NOT exceed 5 seconds and must be > 0!",
+                "status": "Status code to simulate in response. Ex. ?status=500. Default is 200.",
+                "basic_auth": "Prompt user with Basic Auth challange. Ex. ?auth=username:password.",
+                "documentation": "http://fakeresponse.com/"
+            },
+            "about": {
+                "follow_me": "@sshadmand",
+                "home": "http://fakeresponse.com/",
+                "me": "Sean Shadmand",
+                "original_post_link": "http://seanshadmand.com/2012/06/21/fake-response-server-slow-response-time-generator/"
+            },
+            "agent": "python-requests/2.21.0",
+            "originating_ip": "47.199.177.187"
+        },
+        "status": 200,
+        "slept": 1.0,
+        "response": "Slept for 1.0 seconds.",
+        "api_key": "8aed7a31-ef1b-4b2a-b4b4-2f637f5c1987",
+        "method": "GET"
+    },
+    {
+        "meta": {
+            "help": {
+                "data": "JSON Dict to respond with. Ex. ?data={\"color\": \"red\"}. Data is returned as \"data\" key. ",
+                "sleep": "Changes the time to delay in seconds. Ex. ?sleep=5. Defalut is 0. Sleep can NOT exceed 5 seconds and must be > 0!",
+                "status": "Status code to simulate in response. Ex. ?status=500. Default is 200.",
+                "basic_auth": "Prompt user with Basic Auth challange. Ex. ?auth=username:password.",
+                "documentation": "http://fakeresponse.com/"
+            },
+            "about": {
+                "follow_me": "@sshadmand",
+                "home": "http://fakeresponse.com/",
+                "me": "Sean Shadmand",
+                "original_post_link": "http://seanshadmand.com/2012/06/21/fake-response-server-slow-response-time-generator/"
+            },
+            "agent": "python-requests/2.21.0",
+            "originating_ip": "47.199.177.187"
+        },
+        "status": 200,
+        "slept": 1.0,
+        "response": "Slept for 1.0 seconds.",
+        "api_key": "8aed7a31-ef1b-4b2a-b4b4-2f637f5c1987",
+        "method": "GET"
+    }
+]

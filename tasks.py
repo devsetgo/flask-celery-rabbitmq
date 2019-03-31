@@ -4,7 +4,7 @@ import requests
 
 result_backend = 'db+sqlite:///results.db'
 
-app = Celery('tasks', broker='amqp://guest:guest@localhost:32796', backend=result_backend)
+app = Celery('tasks', broker='amqp://guest:guest@1localhost:5672', backend=result_backend)
 
 # your_name = 'backwards'
 
